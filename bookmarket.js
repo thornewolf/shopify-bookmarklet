@@ -1,1 +1,1 @@
-(() => { let s = document.createElement('script'); s.src = ''; })();
+javascript: (function () { let s = document.createElement('script'); s.src = 'https://raw.githubusercontent.com/thornewolf/shopify-bookmarklet/main/addShopifyButton.js'; document.body.appendChild(s); alert(1) })();
